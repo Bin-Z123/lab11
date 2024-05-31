@@ -1,0 +1,23 @@
+table{
+    width: 500px;
+    text-align: center;
+    border-collapse: collapse;
+    border-color: rgb(77, 255, 0);
+
+}
+.null{
+    width: 50px;
+}
+tr{
+    height: 30px;
+}
+.cols2{
+    background-color: rgb(201, 255, 120);
+}
+tr:first-child{
+    background-color: rgb(38, 174, 38);
+    color: white;
+}
+.red{
+    color: red;
+}
